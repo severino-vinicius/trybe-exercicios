@@ -1,0 +1,26 @@
+
+.border:hover {
+    border: solid black;
+    font-style: italic;
+}
+
+.primary-color:hover {
+    background-color: violet;
+}
+
+.secundary-color:hover {
+    background-color: blueviolet;
+}
+
+.complementary-color:hover {
+    background-color: darkmagenta;
+    height: 80px;
+}
+
+.dark-color:hover {
+    background-color: rgb(59, 0, 77);
+}
+
+.bright-color:hover {
+    background-color: rgb(245, 194, 243);
+}
