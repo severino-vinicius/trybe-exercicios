@@ -12,7 +12,7 @@
 
 const valorCustoProduto = 1;
 const valorVendaProduto = 3;
-let valorImposto = (valorVendaProduto / 100) * 20 
+let valorImposto = (valorCustoProduto * 20) / 100;
 let valorLucro = ((valorVendaProduto - valorCustoProduto) - valorImposto) * 1000;
 
 

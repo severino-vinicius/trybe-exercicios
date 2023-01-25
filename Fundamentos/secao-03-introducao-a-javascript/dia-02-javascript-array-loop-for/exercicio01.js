@@ -23,9 +23,9 @@ let soma = 0;
 let media = 0;
 let maiorNumero = numbers[0];
 
-// for (let index = 0; index < numbers.length; index += 1){
-//     console.log(numbers[index]);
-// }
+for (let index = 0; index < numbers.length; index += 1){
+    console.log(numbers[index]);
+}
 
 // console.log();
 
@@ -59,14 +59,14 @@ let maiorNumero = numbers[0];
 //     console.log('Valor menor ou igual a 20')
 // }
 
-console.log();
+// console.log();
 
-for (let index = 1; index < numbers.length; index += 1){
-    if (numbers[index] > maiorNumero){
-        maiorNumero = numbers[index];
-    }
-}
+// for (let index = 1; index < numbers.length; index += 1){
+//     if (numbers[index] > maiorNumero){
+//         maiorNumero = numbers[index];
+//     }
+// }
 
-    console.log(maiorNumero);
+//     console.log(maiorNumero);
 
 console.log();
