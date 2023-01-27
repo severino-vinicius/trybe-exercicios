@@ -1,0 +1,17 @@
+
+h1, p {
+    text-align: center;
+}
+
+.lista-site {
+    list-style-type: none;
+    text-align: center;
+}
+
+li:hover {
+    background-color: blue;
+}
+
+li:active {
+    font-family: monospace;
+}
